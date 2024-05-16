@@ -1,0 +1,15 @@
+{
+  "name": "keep-system-active",
+  "version": "1.0.0",
+  "main": "keep-system-active.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Shahid @ ZAPTA Technologies",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "robotjs": "^0.6.0"
+  }
+}
