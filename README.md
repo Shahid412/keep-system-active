@@ -8,6 +8,7 @@ This Node.js script keeps the system active by simulating keyboard or mouse acti
 2. Clone this repository or download the script file.
 3. Navigate to the project directory in your terminal.
 4. Run `npm install` to install the required dependencies (`robotjs`).
+5. Install Python 2.x and Visual Studio Build Tools as dependencies in case above installation fails.
 
 ## Usage
 
