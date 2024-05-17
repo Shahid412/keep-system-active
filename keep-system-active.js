@@ -30,8 +30,8 @@ function keepSystemActive() {
   console.log('Keeping the System active...');
   setInterval(() => {
     // Simulate key press, mouse click, or mouse movement (you can choose which action to use)
-    // simulateKeyPress();
-    // simulateMouseClick();
+    simulateKeyPress();
+    simulateMouseClick();
     simulateMouseMovement();
   }, 60 * 1000); // Every minute (60 seconds * 1000 milliseconds)
 }
